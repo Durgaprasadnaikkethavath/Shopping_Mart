@@ -1,0 +1,12 @@
+.navbar_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navbar_shopping {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 100px;
+}
